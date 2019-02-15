@@ -1,0 +1,22 @@
+.header {
+    height: 175px;
+    background-color:bisque;
+    color: black;
+    padding: 5px;
+   
+    
+}
+h1{
+    font-size: 30px;
+    text-shadow: 5px 5px 5px gray;
+}
+
+h2{
+    font-size: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
+
+.msg{
+    text-align:start;
+    font-size: 20px;
+}
